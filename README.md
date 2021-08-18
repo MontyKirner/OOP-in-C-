@@ -1,4 +1,3 @@
-# OOP-in-C-
+# OOP-in-CPP
 PHYS30762 course
-
-Blah blah
+Code for AC Circuits Final Project
